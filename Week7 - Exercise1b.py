@@ -4,6 +4,6 @@ a.insert(2, -1)
 
 a.append(333)
 
-a.indes(333)
+a.index(333)
 
 print (a)
